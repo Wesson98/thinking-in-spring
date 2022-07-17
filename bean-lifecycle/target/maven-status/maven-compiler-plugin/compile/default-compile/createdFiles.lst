@@ -1,0 +1,4 @@
+com\huweicheng\thinking\in\spring\bean\lifecycle\MyDestructionAwareBeanPostProcessor.class
+com\huweicheng\thinking\in\spring\bean\lifecycle\BeanMetadataConfigurationDemo.class
+com\huweicheng\thinking\in\spring\bean\lifecycle\UserHolder.class
+com\huweicheng\thinking\in\spring\bean\lifecycle\BeanMetadataConfigurationDemo$MyInstantiationAwareBeanPostProcessor.class

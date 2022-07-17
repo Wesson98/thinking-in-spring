@@ -11,6 +11,8 @@
     <modules>
         <module>ioc-container-overview</module>
         <module>spring-bean</module>
+        <module>dependency-injection</module>
+        <module>bean-lifecycle</module>
     </modules>
 
     <properties>

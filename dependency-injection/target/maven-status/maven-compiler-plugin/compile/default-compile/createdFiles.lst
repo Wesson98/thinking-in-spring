@@ -1,0 +1,4 @@
+com\huweicheng\thinking\in\spring\ioc\dependency\injection\AnnotationDependencyInjectionDemo.class
+com\huweicheng\thinking\in\spring\ioc\dependency\injection\UserHolder.class
+com\huweicheng\thinking\in\spring\ioc\dependency\injection\XmlDependencySetterInjectionDemo.class
+com\huweicheng\thinking\in\spring\ioc\dependency\injection\annotation\MyAutowired.class

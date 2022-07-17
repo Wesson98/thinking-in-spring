@@ -1,0 +1,9 @@
+com\huweicheng\thinking\in\spring\bean\definition\BeanDefinitionCreationDemo.class
+com\huweicheng\thinking\in\spring\bean\definition\BeanInitializationDemo.class
+com\huweicheng\thinking\in\spring\bean\definition\BeanAliasDemo.class
+com\huweicheng\thinking\in\spring\bean\definition\BeanCreationDemo.class
+com\huweicheng\thinking\in\spring\bean\factory\UserFactoryBean.class
+com\huweicheng\thinking\in\spring\bean\definition\AnnotationBeanDefinitionDemo$Config.class
+com\huweicheng\thinking\in\spring\bean\definition\AnnotationBeanDefinitionDemo.class
+com\huweicheng\thinking\in\spring\bean\factory\UserFactory.class
+com\huweicheng\thinking\in\spring\bean\factory\DefaultUserFactory.class
